@@ -1,0 +1,11 @@
+{
+  "name": "node_fundamentos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leticiaenz/node_fundamentos.git",
+  "author": "leticiaenz <leticia.en11@.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
